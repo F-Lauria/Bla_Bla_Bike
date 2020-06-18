@@ -1,0 +1,30 @@
+<? XML version='1.0' ?>
+<!DOCTYPE USCITA SYSTEM 'Uscita.dtd' >
+
+<USCITA titolo='Bombaaaaaaaaaa'>
+
+    <LUOGO>
+        GENOVA
+    </LUOGO>
+
+    <TIPO_DI_USCITA tipo='mountain bike'/>
+
+    <LIVELLO_DI_DIFFICOLTA livello='alto'/>
+
+    <DURATA>
+        9 ore
+    </DURATA>
+
+    <LUNGHEZZA>
+        40 km
+    </LUNGHEZZA>
+
+    <DISLIVELLO>
+        100 m
+    </DISLIVELLO>
+
+    <DATA ora='05:00:00'>
+        2018-03-30
+    </DATA>
+
+</USCITA>
