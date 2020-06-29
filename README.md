@@ -1,6 +1,6 @@
 # Bla_Bla_Bike
 
-BA University project in which a Database and its respective web site were developed. 
+BSc University project in which a Database and its respective web site were developed. 
 
 ## Tablet of Contents
 * [General info](#general-info)
